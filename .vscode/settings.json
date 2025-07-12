@@ -9,6 +9,7 @@
     "figsize",
     "fontsize",
     "PANN",
+    "pycache",
     "seqlen",
     "Tsim",
     "Tslen",
