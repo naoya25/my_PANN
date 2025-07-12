@@ -1,0 +1,22 @@
+{
+  "[python]": {
+    "editor.defaultFormatter": "charliermarsh.ruff",
+    "editor.formatOnType": true
+  },
+  "cSpell.words": [
+    "blit",
+    "edgecolor",
+    "figsize",
+    "fontsize",
+    "PANN",
+    "seqlen",
+    "Tsim",
+    "Tslen",
+    "twinx",
+    "Vref",
+    "xlabel",
+    "xlim",
+    "ylabel",
+    "ylim"
+  ]
+}
